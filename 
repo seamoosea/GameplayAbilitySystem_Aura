@@ -1,0 +1,23 @@
+[33mcommit 6a3ca7b7db85b3c37e7b7bb8bd76991a26c363b4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: seamoosea <69767053+seamoosea@users.noreply.github.com>
+Date:   Wed Oct 16 15:23:48 2024 -0700
+
+    enemy and player character class
+
+[33mcommit 444bac591ba04759d6e4767be873b0584aebeaea[m
+Author: seamoosea <69767053+seamoosea@users.noreply.github.com>
+Date:   Wed Oct 16 15:13:26 2024 -0700
+
+    The player and enemy characters
+
+[33mcommit bf108fb9e6542d57c19f091664427a2ef155f15b[m
+Author: seamoosea <69767053+seamoosea@users.noreply.github.com>
+Date:   Wed Oct 16 15:02:39 2024 -0700
+
+    The Base Character Class
+
+[33mcommit 6102598f10ec6b89bf755de00e15a9deb5ccc43e[m
+Author: seamoosea <69767053+seamoosea@users.noreply.github.com>
+Date:   Tue Oct 15 16:32:33 2024 -0700
+
+    Initial Project Files
